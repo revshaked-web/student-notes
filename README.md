@@ -1,3 +1,1 @@
-# student-notes
-                                                                                                                                                                            אפליקציית ניהול הערות לסטודנטים[👥 תורמים](./contributors.md)
-
+# student-notes                                                                                                                                                                            אפליקציית ניהול הערות לסטודנטים[👥 תורמים](./contributors.md)
